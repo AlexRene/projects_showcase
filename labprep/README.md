@@ -68,6 +68,7 @@ Este projeto foi desenvolvido com foco em aprendizado prático de tecnologias mo
 - Consumo de APIs no frontend com Axios.
 - Gerenciamento de estado, autenticação e controle de sessões.
 - Deploy e versionamento com ferramentas modernas.
+- Implementação de autenticação segura utilizando JWT
 
 ---
 
