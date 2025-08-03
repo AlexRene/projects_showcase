@@ -54,7 +54,7 @@ O sistema foi pensado para ser simples e direto, com telas modernas e responsiva
 
 ## 🌐 Acesso
 
-O sistema está atualmente disponível online por meio da Vercel:
+O sistema está atualmente disponível online por meio da Vercel, por[em apenas os usuários autorizados podem utilizar o mesmo:
 
 🔗 [Acesse o LabPrep](https://labprep-project.vercel.app/)
 
@@ -75,11 +75,6 @@ Este projeto foi desenvolvido com foco em aprendizado prático de tecnologias mo
 
 Caso queira saber mais sobre o projeto, dar sugestões ou apenas trocar ideias, entre em contato:
 
-📧 seu-email@exemplo.com  
-🔗 [github.com/seu-usuario](https://github.com/seu-usuario)
+📧 alexrene.dev@gmail.com
+🔗 [Linkedin](www.linkedin.com/in/alexsander-oliveira-b76596168)
 
----
-
-## 📄 Licença
-
-Projeto de código aberto — MIT License.
