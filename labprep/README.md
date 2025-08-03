@@ -76,5 +76,5 @@ Este projeto foi desenvolvido com foco em aprendizado prático de tecnologias mo
 Caso queira saber mais sobre o projeto, dar sugestões ou apenas trocar ideias, entre em contato:
 
 📧 alexrene.dev@gmail.com
-🔗 [Linkedin](www.linkedin.com/in/alexsander-oliveira-b76596168)
+🔗 www.linkedin.com/in/alexsander-oliveira-b76596168
 
