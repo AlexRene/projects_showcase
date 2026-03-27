@@ -7,8 +7,8 @@ Bem-vindo! Este repositório reúne descrições e capturas de tela de projetos 
 
 | Projeto        | Descrição                                                             |
 |----------------|----------------------------------------------------------------------|
-| [💰 Sistema de Tesouraria](./sistema-tesouraria/README.md) | Sistema para gestão financeira municipal com arquitetura hexagonal. |
-| [🧪 LabPrep](./labprep/README.md) | Sistema para controle de vidrarias e solicitações em laboratórios acadêmicos. |
+| [💰 Sistema de Tesouraria]| Sistema para gestão financeira municipal com arquitetura hexagonal. |
+| [🧪 LabPrep] | Sistema para controle de vidrarias e solicitações em laboratórios acadêmicos. |
 | *(em breve)* | Outros projetos serão adicionados futuramente. |
 
 
