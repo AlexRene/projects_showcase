@@ -21,7 +21,6 @@
 * [Estrutura de pastas](#estrutura-de-pastas)
 * [Exemplos de rotas](#exemplos-de-rotas)
 * [Melhorias futuras](#melhorias-futuras)
-* [Licença](#licença)
 
 ---
 
